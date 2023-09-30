@@ -27,10 +27,7 @@ Ejercicio 6: Gestión avanzada de ramas y fusión con estrategia de ramificació
 
 
 
-<<<<<<< HEAD
 Ilse estuvo aqui.2 :)
-=======
 Karla estuvo editando aqui 2.0 :D
+cambio hito 2.2
 
-
->>>>>>> kartleth
