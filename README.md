@@ -26,3 +26,7 @@ Ejercicio 6: Gestión avanzada de ramas y fusión con estrategia de ramificació
 ●Sincroniza tus cambios con GitHub.com.
 
 
+
+Karla estuvo editando aqui 2.0 :D
+
+
