@@ -24,3 +24,5 @@ Ejercicio 6: Gestión avanzada de ramas y fusión con estrategia de ramificació
 ●Resuelve los conflictos y asegúrate de que la característica funcione correctamente.
 ●Fusiona la rama "arreglos-caracteristica" en "caracteristica-nueva" y luego fusiona "caracteristica-nueva" en la rama principal (por ejemplo, "main" o "master").
 ●Sincroniza tus cambios con GitHub.com.
+
+Karla estuvo aquí editando :D
